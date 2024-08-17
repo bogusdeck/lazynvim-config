@@ -1,6 +1,12 @@
 <p align="center">
     <img src="https://github.com/Prome-theus/lazynvim-config/assets/80052733/927c4530-8e8b-48ab-9796-b8fd57866259">
 </p>
+If you like my work, consider buying me a coffee! ☕️
+<div align="center">
+<a href="https://www.buymeacoffee.com/bogusdeck" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150" />
+</a>
+</div>
 
 # Neovim Configuration
 
