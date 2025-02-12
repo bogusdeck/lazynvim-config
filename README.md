@@ -23,7 +23,7 @@ This repository contains my personal Neovim configuration files, tailored to enh
 1. Install Neovim (if not already installed).
 2. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Prome-theus/neovim-config.git ~/.config/nvim 
+   git clone https://github.com/bogusdeck/lazynvim-config ~/.config/nvim 
    ```
    
 ## Uninstalling 
